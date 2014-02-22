@@ -30,9 +30,18 @@ module.exports = function (grunt) {
           '<%= yeoman.app %>/*.html',
           '<%= yeoman.app %>/css/**/*',
           '<%= yeoman.app %>/js/**/*',
+          '<%= yeoman.app %>/sass/**/*.scss',
           '<%= yeoman.app %>/views/**/*'
         ],
-        //tasks: ['sync:dist']
+        //tasks: ['sync:dist'],
+        tasks: ['sass']
+      }
+    },
+    sass: {
+      dist: {
+        files: {
+          '<%= yeoman.app %>/css/app.css' : '<%= yeoman.app %>/sass/app.scss'
+        }
       }
     },
     connect: {
@@ -110,6 +119,7 @@ module.exports = function (grunt) {
       //'copy:dist',
       'configureProxies',
       'connect:livereload',
+      'sass',
       'watch'
     ]);
   });
