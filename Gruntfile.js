@@ -37,11 +37,14 @@ module.exports = function (grunt) {
         tasks: ['sass']
       }
     },
-    sass: {
+    compass: {
       dist: {
-        files: {
-          '<%= yeoman.app %>/css/app.css' : '<%= yeoman.app %>/sass/app.scss'
-        }
+        options: {              // Target options
+          sassDir: 'sass',
+		  cssDir: 'css',
+		  watch: true,
+		  basePath: 'app/static/'
+		}
       }
     },
     connect: {
@@ -119,7 +122,7 @@ module.exports = function (grunt) {
       //'copy:dist',
       'configureProxies',
       'connect:livereload',
-      'sass',
+      'compass',
       'watch'
     ]);
   });

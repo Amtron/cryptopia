@@ -4,6 +4,10 @@ angular.module('cryptopia', ['ngResource', 'ngRoute', 'ui.bootstrap', 'ui.date']
     $routeProvider
       .when('/', {
         templateUrl: 'views/home/home.html', 
-        controller: 'HomeController'})
+        controller: 'HomeController'}
+      )
+      .when('/profile', {
+        templateUrl: 'views/profile/profile.html', 
+        controller: 'ProfileController'})
       .otherwise({redirectTo: '/'});
   }]);

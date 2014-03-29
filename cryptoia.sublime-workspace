@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"click",
+				"clickblue"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"header",
+				"header-left"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"upe",
+				"uppercase"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"price",
+				"pricetable"
+			],
+			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"pas",
+				"parseInt"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"key",
+				"keywordData"
+			],
+			[
+				"chil",
+				"childProcess"
+			],
+			[
+				"get",
+				"getTweets"
+			],
+			[
+				"tweet",
+				"tweetCollection"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"repo",
+				"repos"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/static/index.html",
+			"settings":
+			{
+				"buffer_size": 935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/static/js/app.js",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/static/js/home/profile-controller.js",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/static/js/home/home-controller.js",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/static/views/profile/profile.html",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/static/views/home/home.html",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"package control installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Add Re",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Alex/Library/Caches/TemporaryItems/mdmtl_clickbatch_507923467[1].xml",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-account_closure_notice.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-bill_reminder-final.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-bill_reminder-inital.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-bill.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-concurrent_transfer_notice.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-disconnection_notice.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-generic.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-instalment-increase.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-keep_warm-almost_there.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-keep_warm-holiday_meter_read.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-gold-no_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-gold-with_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-honeymoon-no_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-honeymoon-with_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-hybrid-gold-no_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-migration-hybrid-gold-with_dd.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-post_call_wrap-direct_debit.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-post_call_wrap-mates_rates.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-terms_and_conditions.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-transfer_success-business.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-transfer_success-generic.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-transfer_success-natural.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-transfer_success-shine.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-welcome-missed_call.html",
+		"/Applications/MAMP/htdocs/clickenergy/branches/email-template/mbc/templates_min-v1.3/email_template-welcome.html",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Pages/direct_debit.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Emails/html/new_movehome.ctp",
+		"/Applications/MAMP/htdocs/clickenergy2/trunk/app/View/Quote/quote.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Elements/switching/switch_s4.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/webroot/js/signup.js",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/AppController.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Emails/html/new_switching.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Pages/home.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Elements/icons.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Pages/call_back.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/CustomersController.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Emails/html/callback.ctp",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/PagesController.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/QuotelookupsController.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/PlanblocksController.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Controller/Component/PxPostComponent.php",
+		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/clickenergy/trunk/app/View/Layouts/pis.ctp",
+		"/Applications/MAMP/htdocs/showandtell/wp-includes/general-template.php",
+		"/Applications/MAMP/htdocs/clickenergy/trunk/app/Model/Customer.php",
+		"/Applications/MAMP/htdocs/clickenergy/tags/release_1.1/trunk/app/Controller/CustomersController.php",
+		"/Applications/MAMP/htdocs/click_sem_landing_page/50up.html",
+		"/Applications/MAMP/htdocs/click_sem_landing_page/fifty.css",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/ajax/get_plan_data_ajax.php",
+		"/Applications/MAMP/htdocs/showandtell/wp-content/themes/showandtell-scaffold/header.php",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/classes/mySmarty.class.php",
+		"/Applications/MAMP/htdocs/designerline/eail/index.html",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/ajax/OTMnew/app/signup_form/classes/Smarty-3.0.7/templates_c/ec848893f064eb552f63127d19de552e15197be6.file.connect_plan.tpl.php",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/get_connected_main.php",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/templates/connect_plan.tpl",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/classes/Smarty-3.0.7/templates_c/14ef50c02d6f996c04e5a13418f35c388f85c23f.file.connect_plan.tpl.php",
+		"/Applications/MAMP/htdocs/OTMnew/app/config.php",
+		"/Applications/MAMP/htdocs/OTMnew/js/move/dialogs.js",
+		"/Applications/MAMP/htdocs/OTMnew/js/move/address.js",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/js/OTM_plan_data.js.php",
+		"/Applications/MAMP/htdocs/OTMnew/app/signup_form/js/OTM_ui_dialogs.js",
+		"/Applications/MAMP/htdocs/OTMnew/js/move.min.js",
+		"/Applications/MAMP/htdocs/CLICK/andrew.php",
+		"/Applications/MAMP/htdocs/CLICK/apple-touch-icon.png",
+		"/Applications/MAMP/htdocs/CLICK/billing_maintenance.html",
+		"/Applications/MAMP/htdocs/CLICK/BingSiteAuth.xml",
+		"/Applications/MAMP/htdocs/CLICK/Click Business PIS QLDVIC.pdf",
+		"/Applications/MAMP/htdocs/CLICK/Click Energy Complaints Process.pdf",
+		"/Applications/MAMP/htdocs/CLICK/config.php",
+		"/Applications/MAMP/htdocs/CLICK/emails.zip",
+		"/Applications/MAMP/htdocs/CLICK/favicon_cms.ico",
+		"/Applications/MAMP/htdocs/CLICK/favicon.ico",
+		"/Applications/MAMP/htdocs/CLICK/fileloc.php",
+		"/Applications/MAMP/htdocs/CLICK/forms.html",
+		"/Applications/MAMP/htdocs/CLICK/google5c72d66a02c67dc4.html",
+		"/Applications/MAMP/htdocs/CLICK/googlef8f38057d0f76301.html",
+		"/Applications/MAMP/htdocs/CLICK/inc.php-old",
+		"/Applications/MAMP/htdocs/CLICK/include.php",
+		"/Applications/MAMP/htdocs/CLICK/index.php",
+		"/Applications/MAMP/htdocs/CLICK/indexparked.html",
+		"/Applications/MAMP/htdocs/CLICK/info.php",
+		"/Applications/MAMP/htdocs/CLICK/moduleinterface.php",
+		"/Applications/MAMP/htdocs/CLICK/postcode-test.php",
+		"/Applications/MAMP/htdocs/CLICK/progressive-storage.php",
+		"/Applications/MAMP/htdocs/CLICK/redirect_rules.php",
+		"/Applications/MAMP/htdocs/CLICK/robots.txt",
+		"/Applications/MAMP/htdocs/CLICK/sitemap.xml",
+		"/Applications/MAMP/htdocs/CLICK/sitemap.xml-old",
+		"/Applications/MAMP/htdocs/CLICK/soap.php",
+		"/Applications/MAMP/htdocs/CLICK/stylesheet.css",
+		"/Applications/MAMP/htdocs/CLICK/stylesheet.php",
+		"/Applications/MAMP/htdocs/CLICK/testdb.php",
+		"/Applications/MAMP/htdocs/CLICK/version.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/tribe-events-tours-view.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/tribe-tours-view-template-class.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/README.md",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/tribe-agenda-view-template-class.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/tribe-events-agenda-view.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/inc/css/agenda-view.css",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/inc/js/agenda-view.js",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/views/agenda.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/views/agenda/content.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/views/agenda/loop.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/views/agenda/single-event.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/tribe-events-agenda-view-master/template-tags.php",
+		"/Applications/MAMP/htdocs/theoperatives/wordpress/wp-content/plugins/the-events-calendar/admin-views/event-sidebar-options.php",
+		"/Applications/MAMP/htdocs/CLICK/pricetable/improvements.scss",
+		"/Applications/MAMP/htdocs/CLICK/Systems/ExportCustomerData_TempTesting/ExportCRMCustomerData.php",
+		"/Applications/MAMP/htdocs/CLICK/signupbutton/index.html",
+		"/Applications/MAMP/htdocs/CLICK/lib/html_entity_decode_php4.php",
+		"/Applications/MAMP/htdocs/CLICK/.bash_history",
+		"/Applications/MAMP/htdocs/click_sem_landing_page/index.html",
+		"/Applications/MAMP/htdocs/CLICK/pricetable/pricetable.scss",
+		"/Applications/MAMP/htdocs/CLICK/pricetable/click5714/style.css",
+		"/Applications/MAMP/htdocs/CLICK/pricetable/pricetable.css",
+		"/Users/Alex/Documents/CLICK/pricing_table/pricetable.scss",
+		"/Users/Alex/Documents/CLICK/pricing_table/pricetable.css",
+		"/Users/Alex/Documents/CLICK/pricing_table/compare.html",
+		"/Users/Alex/Documents/CLICK/plans_v3/boxes.html",
+		"/Users/Alex/Documents/CLICK/plans_v3/old.html",
+		"/Applications/MAMP/htdocs/todo/app/scripts/controllers/main.js",
+		"/Applications/MAMP/htdocs/todo/app/scripts/app.js",
+		"/Applications/MAMP/htdocs/portfolio/javascripts/app.js",
+		"/Applications/MAMP/htdocs/todo1/server.js",
+		"/Applications/MAMP/htdocs/todo1/bower.json",
+		"/Applications/MAMP/htdocs/todo1/config/config.js",
+		"/Volumes/studio/FLUJO WORK/_FLUJO_GRAPHICWORK/GRAPHIC_WORK/NATVIA/Natvia_sugarfree_aid_kit/newsletter_template/template-widgets.html",
+		"/Applications/MAMP/htdocs/fak/sass/main.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Ink v1.0.4",
+			"monthly",
+			"apowell@onthemove.com.au",
+			"100 % ",
+			"call_b",
+			"my_plan",
+			"Sorry, we don't provide electricity to your area.",
+			"postcode",
+			"postcoded",
+			"regions",
+			"sql",
+			"query",
+			"sql",
+			"SELECT",
+			"sql",
+			"SELECT",
+			"*</label>",
+			"Call Back",
+			"New partial signups",
+			"cc_token",
+			"New Moving Home",
+			"Redirect",
+			"http://www.clickenergy.com.au/downloads/click-direct-debit_editable.pdf",
+			"08c87b75",
+			"akoul",
+			"Transitional Feed-in Tariff",
+			"		  font-stretch:normal;",
+			"body .columns td.one,\n		.body .column td.one,",
+			"<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																	<tr>\n																			<td style=\"padding-bottom:20px; text-transform: uppercase; font-size:16px; font-weight:bold; color:red; \">OVERDUE</td>\n																		</tr>\n																		\n																	</table>",
+			"<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																	<tr>\n																			<td style=\"padding-bottom:0; text-transform: uppercase; font-size:12px; font-weight:normal; \">Customer Number</td>\n																		</tr>\n																		<tr>\n																			<td style=\"padding-bottom:20px;\">\n																			<h6>{party_code}</h6>\n																			</td>\n																	</tr>\n																	</table>",
+			"6000002",
+			"name=\"s\" id=\"s\"",
+			"name=\"s\" id=\"s\">",
+			"<input type=\"text\" value=\"\" name=\"s\" id=\"s\">",
+			"SECONDARY_CONCESSION_ENT",
+			"CWS",
+			"/energy-price-fact-sheets/",
+			"energy-price-fact-sheets/43",
+			"otmdev_moving",
+			"mysql_connect",
+			"phone_number()",
+			"1300 785 247",
+			"form_action",
+			"form_option",
+			"app/",
+			"OTMnew",
+			"OTMnew/app/signup",
+			"OTMnew/",
+			"get_plan_data_ajax",
+			"OTMnew/app",
+			"OTMnew",
+			"OTMnew/app",
+			"localhost",
+			"clientdata/apache-www",
+			"otm_move",
+			"root",
+			".header",
+			"header",
+			"heading",
+			"Due to Supplier requirements, On The Move are only authorised to perform disconnections for the following suppliers",
+			"connect_plan.tpl",
+			"var/www-otm",
+			"htdocs/",
+			"_plan_content",
+			"address_new_postcode_change",
+			"update_connect_dialogs",
+			"get_plan_data_ajax.php",
+			"connect_plan.tpl",
+			"->features",
+			"OTM_plan_data",
+			"writePlanstoPage",
+			"otmsignup_onthemove_com_au",
+			"margin-left:69px;",
+			"restyle_dialog",
+			"connect_widget_dialog",
+			"ui-dialog-title-connect_widget_dialog",
+			"dialog_content_block_2",
+			"id=\"dialog_content_block_2",
+			"on_the_move_callback_form.png",
+			"connect_widget_dialog",
+			"switch-123",
+			"tribe_events_cat",
+			"widget switch-123",
+			"UA-",
+			"sendgrid",
+			"email_validation_ajax.php",
+			"Thanks for Joining Us",
+			"Thanks for Joining Us - Sales Tracking No",
+			".condition_required",
+			"condition_required",
+			"#state_form",
+			"#button_VIC",
+			"#move_or_switch_dialog",
+			"switching.jpg",
+			"<a href=\"http://www.clickenergy.com.au/our-energy-plans/compare-our-energy-plans/\"><img class=\"action_button\" id=\"switch_button\" src=\"/uploads/images/website/misc/switching.jpg\" alt=\"switching\" style=\"cursor: default;\"></a>",
+			"eventDisplay",
+			"Tribe_Events_tours_Template",
+			"agenda",
+			"upcoming",
+			"http://click.staging.yokedesign.com.au",
+			"mysql-4.netregistry.net",
+			"Click Energy Website Transfers Data - Daily Upload",
+			"d_our_energy_plans",
+			"url('fonts",
+			"'harabararegular', \"HelveticaNeue\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;",
+			"<a",
+			"/images",
+			"/images/",
+			"/obs/",
+			"'images",
+			"/images",
+			"url('./fonts/",
+			"icon",
+			"click",
+			"http://www.clickenergy.com.au/lib/pricetable/",
+			"40px",
+			"\n",
+			";\n",
+			"20px",
+			"logo",
+			"technique-six",
+			"/uploads/images/website/misc/moving.jpg",
+			"d_our_energy_plans",
+			"init_state_overlay",
+			"CWS_Customer",
+			"sales@clickenergy.com.au",
+			"images/plans_v2/",
+			"<img src=​\"http:​/​/​clickenergy.com.au/​images/​plans_v2/​bottom.png\">​"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<sup>*</sup></label>",
+			"",
+			"body .columns td.one,\n		.body .column td.one",
+			"<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																	<tr>\n																			<td align=\"left\" style=\"padding-bottom:20px; text-transform: uppercase; font-size:16px; font-weight:bold; color:red; \">OVERDUE</td>\n																		</tr>\n																		\n																	</table>",
+			"<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																	<tr>\n																			<td align=\"left\" style=\"padding-bottom:0; text-transform: uppercase; font-size:12px; font-weight:normal; \">Customer Number</td>\n																		</tr>\n																		<tr>\n																			<td align=\"left\" style=\"padding-bottom:20px;\">\n																			<h6>{party_code}</h6>\n																			</td>\n																	</tr>\n																	</table>",
+			"Tribe_Events_Tours_Template",
+			"tours",
+			"",
+			"url('/lib/click/fonts",
+			"$harabara;",
+			"",
+			"/uploads/obs/",
+			"'http://www.clickenergy.com.au/obs/images",
+			"url('fonts/obs/",
+			"",
+			"images/plans_v3/",
+			"<img src=​\"http:​/​/​clickenergy.com.au/​images/​plans_v3/​bottom.png\">​",
+			"clickenergy.com.au",
+			"12",
+			"12.5%",
+			"img src=\"http://click.staging.yokedesign.com.au/",
+			"type=\"text/javascript\" src=\"http://click.staging.yokedesign.com.au/",
+			"Superior",
+			"Platinum",
+			"8BBDAC"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/static/index.html",
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/static/js/app.js",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/static/js/home/profile-controller.js",
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/static/js/home/home-controller.js",
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/static/views/profile/profile.html",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/static/views/home/home.html",
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"View/Pages/call_back.ctp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true
+}
